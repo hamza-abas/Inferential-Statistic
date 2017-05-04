@@ -1,7 +1,7 @@
----
-title: "Diabetes in Pima Indian Women"
-output: pdf_document
----
+                          # Diabetes in Pima Indian Women
+
+
+
 
 
 

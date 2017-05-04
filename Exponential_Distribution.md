@@ -1,7 +1,6 @@
----
-title: "Simulation of Exponential Distribution using R"
-output: pdf_document
----
+
+                          # Simulation of Exponential Distribution using R"
+
 
 
        

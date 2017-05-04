@@ -1,8 +1,5 @@
----
-title: "Analysis of Tooth Growth by Supplement and Dosage Using R"
-output: pdf_document
----
 
+                # Analysis of Tooth Growth by Supplement and Dosage Using R
 
 
                                      
